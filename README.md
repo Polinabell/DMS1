@@ -2,11 +2,6 @@
 
 Современная веб-система для эффективного управления дефектами на строительных объектах с полным жизненным циклом от выявления до устранения.
 
-[![CI/CD Pipeline](https://github.com/username/defect-management-system/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/username/defect-management-system/actions/workflows/ci-cd.yml)
-[![Coverage Status](https://codecov.io/gh/username/defect-management-system/branch/main/graph/badge.svg)](https://codecov.io/gh/username/defect-management-system)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=defect-management-system&metric=security_rating)](https://sonarcloud.io/dashboard?id=defect-management-system)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Особенности системы
 
 ### Основной функционал
